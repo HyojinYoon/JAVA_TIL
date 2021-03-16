@@ -4,13 +4,13 @@ public class PracticeEx01
 {
 	public static void main(String[] args)
 	{
-		//01.제어자문제 1번
+		//01.제어문문제 1번
 		for(int a = 1; a <= 5; a++)
 		{
 			System.out.println(a+"행 : "+"***");
 		}
 		
-		//01.제어자문제 2번
+		//01.제어문문제 2번
 		for(int a = 0; a < 5; a++) 
 		{
 			for(int b = 0; b < 1+a; b++) 
@@ -27,7 +27,7 @@ public class PracticeEx01
 	         System.out.println(star);
 	      }
 	      
-	      //01.제어자문제 3번
+	      //01.제어문문제 3번
 	      for(int a = 0; a < 5; a++)
 	      {	
 	    	  for(int b = 0; b <5-a; b++)
@@ -37,7 +37,7 @@ public class PracticeEx01
 	      	System.out.println();
 	      }
 	      
-	      //01.제어자문제 4번
+	      //01.제어문문제 4번
 	      for(int a = 1; a <= 5; a++)
 	      {
 	    	  System.out.print(a);
@@ -55,13 +55,8 @@ public class PracticeEx01
 	    	  System.out.println();
 	      }
 	      
-	      
-	      
-	      
-	      
-	      
-	      
-	      //01.제어자문제 5번
+	    
+	      //01.제어문문제 5번
 	      for(int a = 5; a >= 1; a--)
 	      {
 	    	  System.out.print(a);
@@ -71,7 +66,15 @@ public class PracticeEx01
 	    	  System.out.println(a+4);
 	      }
 	      
-	      //01.제어자문제 6번
+	      for(int a = 5; a >= 1; a--){
+	    	  for(int b = a; b < 5+a; b++)
+	    	  {
+	    		  System.out.print(b);
+	    	  }
+	    	  System.out.println();
+	      }
+	      
+	      //01.제어문문제 6번
 	      for(int a = 0; a < 5; a++)
 	      {
 	    	  for(int b = 0; b < 1+a; b++)
@@ -89,7 +92,7 @@ public class PracticeEx01
 	    	  System.out.println();
 	      }
 	      
-	      //01.제어자문제 7번
+	      //01.제어문문제 7번
 	      for(int a = 0; a < 5; a++) 
 	      {
 	    	for(int b = 0; b < 4-a; b++) //공백for문

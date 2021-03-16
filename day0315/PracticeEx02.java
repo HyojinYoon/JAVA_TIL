@@ -4,7 +4,7 @@ public class PracticeEx02
 {
 	public static void main(String[] args) 
 	{
-		//01.제어자문제 8번
+		//01.제어문문제 8번
 	      for(int a=0; a < 5; a++)
 	      {
 	    	  for(int b = 0; b < a; b++)
@@ -18,7 +18,7 @@ public class PracticeEx02
 	    	  System.out.println();
 	      }
 	      
-	    //01.제어자문제 9번
+	    //01.제어문문제 9번
 	      for(int a = 0; a < 6; a++)
 	      {
 	    	  for(int b = 0; b < 5-a; b++)
@@ -43,7 +43,7 @@ public class PracticeEx02
 	    	  }
 	    	  System.out.println();
 	      }
-	     //01.제어자문제 10번
+	     //01.제어문문제 10번
 	      for(int a = 0; a < 10; a+=2) 
 	         {
 	          for(int b = 0; b < 4-a; b++) 

@@ -7,7 +7,7 @@ public class PracticeReview
 	{
 		//for/ while/ do~while(최소 1회 실행)
 		
-		//01.제어자문제 14번
+		//01.제어문문제 14번
 		int star = 1; // 별 (첫줄에 1개-기준)
 		int space = 4; // 공백 (첫줄에 공백 4개-기준)
 		boolean status = true; //별출력 횟수가 늘어나는지 여부 판단-별이 늘어날건지 줄어들건지에 대한 기준
