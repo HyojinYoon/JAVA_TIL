@@ -5,11 +5,22 @@ public class Person {
 	int age; // 나이
 	int height; // 키
 	int weight; // 몸무게
-	int bithday; // 생일
+	int birthday; // 생일
 	String addr; // 주소
 
 	// Person(){}
 	Person(String n){
 		name = n;
 	}
+	Person(int a){
+		age = a;
+	}
+		
+	/*Person(String r){ -> 동일한 타입이 똑같이 들어갈 수 없음
+		addr = r  } */
+		
+    Person(String ad, int b){
+    	addr = ad;
+    	birthday = b;
+    }
 }

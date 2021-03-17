@@ -9,7 +9,7 @@ public class Main
 		// 생성 => 변수명 = new 클래스명();
 		// 클래스, 배열 = 참조형 데이터 타입
 		Tv t;
-		t = new Tv(); // Tv 생산! ==> tv 클래스에 파워, 채널, 볼륨 생성해놨기 때문에, 3개 메모리 생성
+		t = new Tv(); // Tv 생산! ==> tv 클래스에 파워, 채널, 볼륨, 인치 생성해놨기 때문에, 4개 메모리 생성
 		Car c = new Car(); // Car 생산! ==> 컬러, 스피드 2개 메모리 생성
 		Cls01 c1 = new Cls01();
 		Main m = new Main();

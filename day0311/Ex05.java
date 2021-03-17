@@ -14,7 +14,5 @@ public class Ex05
 		char a = 'A';
 		int b = 10;
 		System.out.println(a+b); //char'A'는 65, char은 2byte int는 4byte이기 때문에 int로 출력
-		
 	}
-
 }

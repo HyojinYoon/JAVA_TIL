@@ -32,10 +32,6 @@ public class Ex04
 		System.out.println(bb);
 		
 		//boolean cc = true; //논리형은 1byte
-		//int dd = cc; //int는 4byte = 1byte 크기는 가능함 but 논리형은 다른 타입에 대입할 수 없음. 단독으로만 사용 가능
-		
-		
-		
+		//int dd = cc; //int는 4byte = 1byte 크기는 가능함 but 논리형은 다른 타입에 대입할 수 없음. 단독으로만 사용 가능	
 	}
-
 }

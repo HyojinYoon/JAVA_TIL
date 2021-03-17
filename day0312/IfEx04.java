@@ -23,5 +23,4 @@ public class IfEx04
 			System.out.println("else"); //else문은 모든 조건에 만족되지 않을 때 사용하는 것이기 때문에, 가장 마지막에 위치해야 함
 		}
 	}
-	
 }

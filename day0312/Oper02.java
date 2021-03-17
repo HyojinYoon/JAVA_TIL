@@ -28,7 +28,5 @@ public static void main(String[] args)
 		boolean r = true;
 		System.out.println(!r); // 반대로 출력, true->false로 false->true로 출력
 		System.out.println(r);
-		
-		
 	}
 }

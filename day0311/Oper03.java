@@ -33,8 +33,6 @@ public class Oper03
 		System.out.println("\thello"); // \t는 tab
 		System.out.println("hello\n world"); // \n은 줄바꿈 , 리눅스 \n
 		System.out.println("hello\r world"); // \r도 줄바꿈 , 윈도우 \r
-		/* \n, \r 줄바꿈 비정상적으로 작동할 수 있음(운영체제 차이) \r\n 운영체제에 상관없이 줄바꿈을 하기 위해 함께 사용 */
-		
+		/* \n, \r 줄바꿈 비정상적으로 작동할 수 있음(운영체제 차이) \r\n 운영체제에 상관없이 줄바꿈을 하기 위해 함께 사용 */	
 	}
-
 }

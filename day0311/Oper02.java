@@ -37,7 +37,6 @@ public class Oper02
 	int q = 3;
 	double r = (double)(q);
 	System.out.println(r);
-	
 	}
 }
 

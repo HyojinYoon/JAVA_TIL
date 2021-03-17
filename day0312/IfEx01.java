@@ -21,5 +21,4 @@ public class IfEx01
 			System.out.println("x="+x);
 		}
 	}
-	
 }

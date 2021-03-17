@@ -20,8 +20,6 @@ public class Ex02
 		int result = value +10; //변수를 사용하면 저장된 값을 사용하는 것임. 즉, value는 100이 저장되어 있기 때문에 100+10.
 		System.out.println(result);
 		System.out.println(value); 
-		//변수는 대입을 했을 때에만 값이 변경됨.
-		
+		//변수는 대입을 했을 때에만 값이 변경됨.		
 	}
-
 }

@@ -20,8 +20,5 @@ public class Oper01
 		++a; // a = a+1; 1증가한 값으로 a의 값이 변경이 됨
 		// System.out.println(++a); 가 11이면, 다시 System.out.println(a);로 출력해도 11로 변경되어 있음
 		//but, System.out.println(a++);이면 10으로 출력이 되고, 다시 System.out.println(a)를 할 때 11로 출력이 됨.->출력 후 연산
-		
-		
 	}
-
 }

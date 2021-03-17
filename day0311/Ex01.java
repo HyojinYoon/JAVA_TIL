@@ -32,8 +32,6 @@ public class Ex01 {
 		
 		int o = 100; //선언과 대입을 한 번에 해도 됨 (기본적으로 쓰이는 방식)
 		double p = 5.7;
-		boolean q = false;
-		
+		boolean q = false;		
 	}
-
 }

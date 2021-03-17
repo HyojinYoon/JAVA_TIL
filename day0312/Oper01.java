@@ -26,5 +26,4 @@ public class Oper01
 		result = x+10 == y; //사칙연산 후 비교
 		System.out.println(result); //->true
 	}
-
 }
