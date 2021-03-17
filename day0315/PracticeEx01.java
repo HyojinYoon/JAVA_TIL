@@ -56,7 +56,7 @@ public class PracticeEx01
 	      }
 	      
 	    
-	      //01.제어문문제 5번
+	    //01.제어문문제 5번
 	      for(int a = 5; a >= 1; a--)
 	      {
 	    	  System.out.print(a);

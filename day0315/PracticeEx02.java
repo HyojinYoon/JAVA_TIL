@@ -43,6 +43,7 @@ public class PracticeEx02
 	    	  }
 	    	  System.out.println();
 	      }
+	      
 	     //01.제어문문제 10번
 	      for(int a = 0; a < 10; a+=2) 
 	         {
