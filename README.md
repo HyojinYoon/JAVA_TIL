@@ -8,11 +8,13 @@
 
 연산자
 
-조건문과 반복문
+[조건문](https://github.com/HyojinYoon/TIL/tree/master/day0312)
 
-참조타입
+[반복문](https://github.com/HyojinYoon/TIL/tree/master/day0315)
 
-클래스
+[참조타입](https://github.com/HyojinYoon/TIL/tree/master/day0316)
+
+[클래스](https://github.com/HyojinYoon/TIL/tree/master/day0317)
 
 상속
 
