@@ -1,7 +1,7 @@
 package test.day0317;
 
 public class Car01 {
-	String color;
+	String color; // 인스턴스 기본형 변수 - 클래스에서 선언한 변수
 	int speed;
 	int door;
 	Car01(){
