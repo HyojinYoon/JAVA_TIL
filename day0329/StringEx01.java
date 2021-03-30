@@ -27,6 +27,11 @@ public class StringEx01 {
 		System.out.println(100+""+100); // -> 100100 / valueOf를 굳이 사용할 필요 없음
 		
 		String [] s = str.split(" "); // 공백단위로 자른 후 배열로 리턴 [0]hello [1]world
+		
+		// 향상된 for문 - for(String s : 반복대상){
+		// 반복대상이 가지고 있는 갯수만큼 반복. 반복할 때마다 반복대상의 값이 하나씩 왼쪽의 String s 변수에 대입
+		
+		// String st - 반복대상이 대입될 변수 선언
 		for(String st : s) {
 			System.out.println(st);
 		}
